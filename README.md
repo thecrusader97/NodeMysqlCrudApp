@@ -1,14 +1,18 @@
 # express crudnodejs
 
-Prerequisites and required applications
+# Prerequisites and required applications
 Node.js is an open source, cross-platform runtime environment for developing server-side and networking applications. You should have basic understanding of nodejs.
 ExpressJS is one of the most trending web frameworks for node.js. It is built on top of node.js http module, and adds support for routing, middleware, view system etc. It is very simple and minimal, unlike other frameworks.
 MySQL is an open-source relational database management system. Its name is a combination of “My”, the name of co-founder Michael Widenius’s daughter, and “SQL”, the abbreviation for Structured Query Language.
 EcmaScript (ES) is a standardised scripting language for JavaScript (JS). The current ES version supported in modern browsers is ES5. However, ES6 tackles a lot of the limitations of the core language, making it easier for devs to code
 Postman is an API(application programming interface) development tool which helps to build, test and modify APIs.It has the ability to make various types of HTTP requests(GET, POST, PUT, PATCH etc.).
-IDE (integrated development environment) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools, and a debugger. In case of mine, I prefer to use visual studio code.
+IDE (integrated development environment) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally 
+
+consists of at least a source code editor, build automation tools, and a debugger. In case of mine, I prefer to use visual studio code.
 Create a Project
-Now it’s time to create our project. Create a directory name NodeMysqlCrudApp. Then navigate to NodeMysqlCrudApp directory. Command are as below
+
+# Now it’s time to create our project. Create a directory name NodeMysqlCrudApp. Then navigate to NodeMysqlCrudApp directory. Command are as below
+
 // Create directory
 mkdir NodeMysqlCrudApp
 // then Navigate to NodeMysqlCrudApp
